@@ -1,125 +1,128 @@
-@inproceedings{greensmith2015securing,
-  title={Securing the Internet of Things with Responsive Artificial Immune Systems},
-  author={Greensmith, Julie},
-  booktitle={Proceedings of the Genetic and Evolutionary Computation Conference Companion},
-  pages={113--120},
-  year={2015},
-  publisher={ACM},
-  doi={10.1145/2739480.2754816},
-  keywords={AIS for IoT Security, Artificial Immune Systems, IoT Security, Intrusion Detection}
-}
-
-@article{aldhaheri2020aisiot,
-  title={Artificial Immune Systems approaches to secure the Internet of Things: A systematic review of the literature and recommendations for future research},
-  author={Aldhaheri, Sahar and Alghazzawi, Daniyal and Alzahrani, Bander and Al-Barakati, Abdullah and Cheng, Li},
-  journal={Journal of Network and Computer Applications},
-  volume={157},
-  pages={102537},
-  year={2020},
-  publisher={Elsevier},
-  doi={10.1016/j.jnca.2020.102537},
-  keywords={AIS for IoT Security, Systematic Review, Artificial Immune Systems, IoT Security}
-}
-
-@article{aldhaheri2020deepdca,
-  title={DeepDCA: Novel Network-Based Detection of IoT Attacks Using Artificial Immune System},
-  author={Aldhaheri, Sahar and Alghazzawi, Daniyal and Cheng, Li and Alzahrani, Bander and Al-Barakati, Abdullah},
-  journal={Applied Sciences},
-  volume={10},
-  number={6},
-  pages={1909},
-  year={2020},
-  publisher={MDPI},
-  doi={10.3390/app10061909},
-  keywords={AIS for IoT Security, Dendritic Cell Algorithm, Deep Learning, IoT Intrusion Detection}
-}
-
-@article{roman2019immune,
-  title={Immune System for the Internet of Things Using Edge Technologies},
-  author={Roman, Rodrigo and Rios, Ruben and Onieva, Jose A. and Lopez, Javier},
-  journal={IEEE Internet of Things Journal},
-  volume={6},
-  number={3},
-  pages={4774--4781},
-  year={2019},
-  publisher={IEEE},
-  doi={10.1109/JIOT.2018.2867613},
-  keywords={AIS for IoT Security, Edge Computing, IoT Security Architecture, Immune System}
-}
-
-@incollection{aickelin2004immune,
-  title={Immune System Approaches to Intrusion Detection -- A Review},
-  author={Aickelin, Uwe and Greensmith, Julie and Twycross, Jamie},
-  booktitle={Artificial Immune Systems},
-  series={Lecture Notes in Computer Science},
-  volume={3239},
-  pages={316--329},
-  year={2004},
-  publisher={Springer},
-  doi={10.1007/978-3-540-30220-9_26},
-  keywords={AIS Foundations, Artificial Immune Systems, Intrusion Detection, Review}
-}
-
-@article{aickelin2007sensing,
-  title={Sensing danger: Innate immunology for intrusion detection},
-  author={Aickelin, Uwe and Greensmith, Julie},
-  journal={Information Security Technical Report},
-  volume={12},
-  number={4},
-  pages={218--227},
-  year={2007},
-  publisher={Elsevier},
-  doi={10.1016/j.istr.2007.10.003},
-  keywords={AIS Foundations, Dendritic Cell Algorithm, Danger Theory, Intrusion Detection}
-}
-
-@article{raza2013svelte,
-  title={SVELTE: Real-time intrusion detection in the Internet of Things},
-  author={Raza, Shahid and Wallgren, Linus and Voigt, Thiemo},
-  journal={Ad Hoc Networks},
-  volume={11},
-  number={8},
-  pages={2661--2674},
-  year={2013},
-  publisher={Elsevier},
-  doi={10.1016/j.adhoc.2013.04.014},
-  keywords={General IoT IDS, IoT Intrusion Detection, RPL, 6LoWPAN, Routing Attacks}
-}
-
-@article{zarpelao2017survey,
-  title={A survey of intrusion detection in Internet of Things},
-  author={Zarpel{\~a}o, Bruno Bogaz and Miani, Rodrigo Sanches and Kawakani, Cl{\'a}udio Toshio and de Alvarenga, Sean Carlisto},
-  journal={Journal of Network and Computer Applications},
-  volume={84},
-  pages={25--37},
-  year={2017},
-  publisher={Elsevier},
-  doi={10.1016/j.jnca.2017.02.009},
-  keywords={General IoT IDS, Survey, IoT Intrusion Detection, Security Threats}
-}
-
-@article{elrawy2018intrusion,
-  title={Intrusion detection systems for IoT-based smart environments: a survey},
-  author={Elrawy, Mohamed Faisal and Awad, Ali Ismail and Hamed, Hesham F. A.},
-  journal={Journal of Cloud Computing},
-  volume={7},
-  number={1},
-  pages={21},
-  year={2018},
-  publisher={SpringerOpen},
-  doi={10.1186/s13677-018-0123-6},
-  keywords={General IoT IDS, Smart Environments, Survey, IoT Security}
-}
-
-@article{meidan2018nbaiot,
-  title={N-BaIoT---Network-Based Detection of IoT Botnet Attacks Using Deep Autoencoders},
-  author={Meidan, Yair and Bohadana, Michael and Mathov, Yael and Mirsky, Yisroel and Breitenbacher, Dominik and Shabtai, Asaf and Elovici, Yuval},
-  journal={IEEE Pervasive Computing},
-  volume={17},
-  number={3},
-  pages={12--22},
-  year={2018},
-  publisher={IEEE},
-  doi={10.1109/MPRV.2018.03367731},
-  keywords={Evaluation Baseline, IoT Botnet Detection, Deep Learning, Autoencoder, Mirai, BASHLITE}
-}
+const generatedBibEntries = {
+    "aickelin2004immune": {
+        "type": "incollection",
+        "title": "Immune System Approaches to Intrusion Detection -- A Review",
+        "author": "Aickelin, Uwe and Greensmith, Julie and Twycross, Jamie",
+        "booktitle": "Artificial Immune Systems",
+        "series": "Lecture Notes in Computer Science",
+        "volume": "3239",
+        "pages": "316--329",
+        "year": "2004",
+        "publisher": "Springer",
+        "doi": "10.1007/978-3-540-30220-9_26",
+        "keywords": "AIS Foundations, Artificial Immune Systems, Intrusion Detection, Review"
+    },
+    "aickelin2007sensing": {
+        "type": "article",
+        "title": "Sensing danger: Innate immunology for intrusion detection",
+        "author": "Aickelin, Uwe and Greensmith, Julie",
+        "journal": "Information Security Technical Report",
+        "volume": "12",
+        "number": "4",
+        "pages": "218--227",
+        "year": "2007",
+        "publisher": "Elsevier",
+        "doi": "10.1016/j.istr.2007.10.003",
+        "keywords": "AIS Foundations, Dendritic Cell Algorithm, Danger Theory, Intrusion Detection"
+    },
+    "aldhaheri2020aisiot": {
+        "type": "article",
+        "title": "Artificial Immune Systems approaches to secure the Internet of Things: A systematic review of the literature and recommendations for future research",
+        "author": "Aldhaheri, Sahar and Alghazzawi, Daniyal and Alzahrani, Bander and Al-Barakati, Abdullah and Cheng, Li",
+        "journal": "Journal of Network and Computer Applications",
+        "volume": "157",
+        "pages": "102537",
+        "year": "2020",
+        "publisher": "Elsevier",
+        "doi": "10.1016/j.jnca.2020.102537",
+        "keywords": "AIS for IoT Security, Systematic Review, Artificial Immune Systems, IoT Security"
+    },
+    "aldhaheri2020deepdca": {
+        "type": "article",
+        "title": "DeepDCA: Novel Network-Based Detection of IoT Attacks Using Artificial Immune System",
+        "author": "Aldhaheri, Sahar and Alghazzawi, Daniyal and Cheng, Li and Alzahrani, Bander and Al-Barakati, Abdullah",
+        "journal": "Applied Sciences",
+        "volume": "10",
+        "number": "6",
+        "pages": "1909",
+        "year": "2020",
+        "publisher": "MDPI",
+        "doi": "10.3390/app10061909",
+        "keywords": "AIS for IoT Security, Dendritic Cell Algorithm, Deep Learning, IoT Intrusion Detection"
+    },
+    "elrawy2018intrusion": {
+        "type": "article",
+        "title": "Intrusion detection systems for IoT-based smart environments: a survey",
+        "author": "Elrawy, Mohamed Faisal and Awad, Ali Ismail and Hamed, Hesham F. A.",
+        "journal": "Journal of Cloud Computing",
+        "volume": "7",
+        "number": "1",
+        "pages": "21",
+        "year": "2018",
+        "publisher": "SpringerOpen",
+        "doi": "10.1186/s13677-018-0123-6",
+        "keywords": "General IoT IDS, Smart Environments, Survey, IoT Security"
+    },
+    "greensmith2015securing": {
+        "type": "inproceedings",
+        "title": "Securing the Internet of Things with Responsive Artificial Immune Systems",
+        "author": "Greensmith, Julie",
+        "booktitle": "Proceedings of the Genetic and Evolutionary Computation Conference Companion",
+        "pages": "113--120",
+        "year": "2015",
+        "publisher": "ACM",
+        "doi": "10.1145/2739480.2754816",
+        "keywords": "AIS for IoT Security, Artificial Immune Systems, IoT Security, Intrusion Detection"
+    },
+    "meidan2018nbaiot": {
+        "type": "article",
+        "title": "N-BaIoT---Network-Based Detection of IoT Botnet Attacks Using Deep Autoencoders",
+        "author": "Meidan, Yair and Bohadana, Michael and Mathov, Yael and Mirsky, Yisroel and Breitenbacher, Dominik and Shabtai, Asaf and Elovici, Yuval",
+        "journal": "IEEE Pervasive Computing",
+        "volume": "17",
+        "number": "3",
+        "pages": "12--22",
+        "year": "2018",
+        "publisher": "IEEE",
+        "doi": "10.1109/MPRV.2018.03367731",
+        "keywords": "Evaluation Baseline, IoT Botnet Detection, Deep Learning, Autoencoder, Mirai, BASHLITE"
+    },
+    "raza2013svelte": {
+        "type": "article",
+        "title": "SVELTE: Real-time intrusion detection in the Internet of Things",
+        "author": "Raza, Shahid and Wallgren, Linus and Voigt, Thiemo",
+        "journal": "Ad Hoc Networks",
+        "volume": "11",
+        "number": "8",
+        "pages": "2661--2674",
+        "year": "2013",
+        "publisher": "Elsevier",
+        "doi": "10.1016/j.adhoc.2013.04.014",
+        "keywords": "General IoT IDS, IoT Intrusion Detection, RPL, 6LoWPAN, Routing Attacks"
+    },
+    "roman2019immune": {
+        "type": "article",
+        "title": "Immune System for the Internet of Things Using Edge Technologies",
+        "author": "Roman, Rodrigo and Rios, Ruben and Onieva, Jose A. and Lopez, Javier",
+        "journal": "IEEE Internet of Things Journal",
+        "volume": "6",
+        "number": "3",
+        "pages": "4774--4781",
+        "year": "2019",
+        "publisher": "IEEE",
+        "doi": "10.1109/JIOT.2018.2867613",
+        "keywords": "AIS for IoT Security, Edge Computing, IoT Security Architecture, Immune System"
+    },
+    "zarpelao2017survey": {
+        "type": "article",
+        "title": "A survey of intrusion detection in Internet of Things",
+        "author": "Zarpelão, Bruno Bogaz and Miani, Rodrigo Sanches and Kawakani, Cláudio Toshio and de Alvarenga, Sean Carlisto",
+        "journal": "Journal of Network and Computer Applications",
+        "volume": "84",
+        "pages": "25--37",
+        "year": "2017",
+        "publisher": "Elsevier",
+        "doi": "10.1016/j.jnca.2017.02.009",
+        "keywords": "General IoT IDS, Survey, IoT Intrusion Detection, Security Threats"
+    }
+};
