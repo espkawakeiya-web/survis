@@ -2,7 +2,7 @@
  * Name as used as title for the main page
  * @type {string}
  */
-var title = 'SurVis Literature Collection';
+var title = 'Artificial Immune System-Based Intrusion Detection for Secure IoT Environments';
 
 /**
  * Relative path to the data directory
